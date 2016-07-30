@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 	<title>Codeigniter 3.0.6 with Predis 3.2.1</title>
 </head>
